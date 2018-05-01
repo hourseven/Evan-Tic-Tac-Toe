@@ -1,6 +1,6 @@
 # Evan-Tic-Tac-Toe
 
-Public Class Form1
+    Public Class Form1
     Dim random As String = 1
     
 
